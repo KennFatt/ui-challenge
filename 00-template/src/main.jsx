@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./preflight.css";
+import "./globals.css";
 import App from "./App";
 
 ReactDOM.render(
