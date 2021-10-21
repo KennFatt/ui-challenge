@@ -41,7 +41,7 @@ function App() {
           </p>
 
           {/* Pricing plan */}
-          <div className="flex w-full mb-10 space-x-4">
+          <div className="bg-neutral-pale flex w-full p-2 mb-10 space-x-4 rounded-lg">
             {/* Harmony icon */}
             <div className="w-12 h-12">
               <img
