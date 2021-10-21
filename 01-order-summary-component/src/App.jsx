@@ -13,6 +13,7 @@ function App() {
         <img
           src="/assets/pattern-background-mobile.svg"
           className="w-full pointer-events-none select-none"
+          alt="Background decorator"
         />
       </picture>
 
